@@ -1,0 +1,21 @@
+ Name: Sy
+ Surname: TT
+ Course: 1
+ Country: TY
+ Student's ticket: 111
+ Average mark: 5
+ 
+ Name: Tayisiya
+ Surname: Yurkiv
+ Course: 1
+ Country: Ukraine
+ Student's ticket: 1112
+ Average mark: 5
+ 
+ Name: Valeria
+ Surname: Prokopenko
+ Course: 1
+ Country: Ukraine
+ Student's ticket: 3435
+ Average mark: 4
+ 
